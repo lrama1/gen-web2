@@ -1,0 +1,103 @@
+{
+  "rows": [
+        {
+                            "itemTypeId": "Sample-itemTypeId-0",
+                              "itemTypeCode": "Sample-itemTypeCode-0",
+                              "itemTypeName": "Sample-itemTypeName-0",
+                              "itemTypeDesc": "Sample-itemTypeDesc-0"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-1",
+                              "itemTypeCode": "Sample-itemTypeCode-1",
+                              "itemTypeName": "Sample-itemTypeName-1",
+                              "itemTypeDesc": "Sample-itemTypeDesc-1"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-2",
+                              "itemTypeCode": "Sample-itemTypeCode-2",
+                              "itemTypeName": "Sample-itemTypeName-2",
+                              "itemTypeDesc": "Sample-itemTypeDesc-2"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-3",
+                              "itemTypeCode": "Sample-itemTypeCode-3",
+                              "itemTypeName": "Sample-itemTypeName-3",
+                              "itemTypeDesc": "Sample-itemTypeDesc-3"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-4",
+                              "itemTypeCode": "Sample-itemTypeCode-4",
+                              "itemTypeName": "Sample-itemTypeName-4",
+                              "itemTypeDesc": "Sample-itemTypeDesc-4"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-5",
+                              "itemTypeCode": "Sample-itemTypeCode-5",
+                              "itemTypeName": "Sample-itemTypeName-5",
+                              "itemTypeDesc": "Sample-itemTypeDesc-5"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-6",
+                              "itemTypeCode": "Sample-itemTypeCode-6",
+                              "itemTypeName": "Sample-itemTypeName-6",
+                              "itemTypeDesc": "Sample-itemTypeDesc-6"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-7",
+                              "itemTypeCode": "Sample-itemTypeCode-7",
+                              "itemTypeName": "Sample-itemTypeName-7",
+                              "itemTypeDesc": "Sample-itemTypeDesc-7"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-8",
+                              "itemTypeCode": "Sample-itemTypeCode-8",
+                              "itemTypeName": "Sample-itemTypeName-8",
+                              "itemTypeDesc": "Sample-itemTypeDesc-8"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-9",
+                              "itemTypeCode": "Sample-itemTypeCode-9",
+                              "itemTypeName": "Sample-itemTypeName-9",
+                              "itemTypeDesc": "Sample-itemTypeDesc-9"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-10",
+                              "itemTypeCode": "Sample-itemTypeCode-10",
+                              "itemTypeName": "Sample-itemTypeName-10",
+                              "itemTypeDesc": "Sample-itemTypeDesc-10"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-11",
+                              "itemTypeCode": "Sample-itemTypeCode-11",
+                              "itemTypeName": "Sample-itemTypeName-11",
+                              "itemTypeDesc": "Sample-itemTypeDesc-11"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-12",
+                              "itemTypeCode": "Sample-itemTypeCode-12",
+                              "itemTypeName": "Sample-itemTypeName-12",
+                              "itemTypeDesc": "Sample-itemTypeDesc-12"
+                  }
+        ,
+            {
+                            "itemTypeId": "Sample-itemTypeId-13",
+                              "itemTypeCode": "Sample-itemTypeCode-13",
+                              "itemTypeName": "Sample-itemTypeName-13",
+                              "itemTypeDesc": "Sample-itemTypeDesc-13"
+                  }
+          ],
+  "totalRecords": 14,
+  "lastPage": 2
+}
